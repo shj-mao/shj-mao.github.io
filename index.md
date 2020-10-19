@@ -3,6 +3,10 @@
 ![证件照](/picture-me.jpg)
 
 ## 个人信息
+5. Shanjun Mao, Xiaodan Fan, Jie Hu. Correlation for tree-shaped datasets and its Bayesian estimation.   Submitted.
+6. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Working.
+7. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
+8. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Working.
 姓名：毛善骏
 职称/职务：助理教授
 办公室：湖南大学财院校区红楼3-228
