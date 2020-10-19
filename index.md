@@ -9,6 +9,8 @@
 - E-mail：shjmao@hnu.edu.cn
 - 研究方向：Statistical Modeling and Computing, Computational Biology/Bioinformatics
 
+<a href="/index-en.html">英文版</a>
+
 ## 个人简介
 毛善骏，男，1993年9月生，湖南张家界人，香港中文大学统计学博士，现任湖南大学金融与统计学院统计系助理教授。
 
