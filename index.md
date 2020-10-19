@@ -1,6 +1,6 @@
 # Welcome to Shanjun's Personal Page!
 
-![证件照](/picture-me.jpg)
+![证件照](/picture/picture-me.jpg)
 
 ## 个人信息
 - 姓名：毛善骏
