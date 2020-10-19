@@ -30,4 +30,4 @@
 8. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Working.
 
 ## 学术兼职
-Briefings in bioinformatics，Journal of Computational and Graphical Statistics等期刊审稿人。
+Briefings in Bioinformatics，Journal of Computational and Graphical Statistics等期刊审稿人。
