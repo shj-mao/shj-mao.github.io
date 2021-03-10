@@ -20,7 +20,7 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://lxy.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. Cong Pian, Shanjun Mao (co-first author), Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan. Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector (2020).   Molecular Therapy - Nucleic Acids, 19, 1423-1433
+1. Cong Pian, Shanjun Mao, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan. Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector (2020).   Molecular Therapy - Nucleic Acids, 19, 1423-1433
 2. Shanjun Mao, Da Zhou, Yiping Zhang, Zhihong Zhang, Jingjing Cao (2018). Weighted Patches Based Face Super-Resolution Via Adaboost.   In Proceedings of the 2018 International Conference on Machine Learning and Cybernetics (ICMLC), 1, pages 234-239
 3. Da Zhou, Shanjun Mao, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Sstatistical Aanalysis of Sstochastic Pphenotypic Pplasticity Mmodel of Ccancer Ccells.   Journal of Theoretical Biology, 454, 70-79
 4. Bin Wu, Shanjun Mao, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314
