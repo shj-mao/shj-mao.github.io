@@ -4,7 +4,7 @@
 
 ## 个人信息
 - 姓名：毛善骏
-- 职称/职务：助理教授
+- 职称/职务：助理教授，硕士生导师
 - 办公室：湖南大学财院校区红楼3-228
 - E-mail：shjmao@hnu.edu.cn
 - 研究方向：Statistical Modeling and Computing, Computational Biology/Bioinformatics
