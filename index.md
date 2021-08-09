@@ -20,12 +20,12 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://lxy.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang. Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals (2021).   Scientific Reports, Accepted.
-2. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu. Correlation for tree-shaped datasets and its Bayesian estimation (2021).   Computational Statistics & Data Analysis, Accepted.
-3. Cong Pian, <b>Shanjun Mao</b>, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan. Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector (2020).   Molecular Therapy - Nucleic Acids, 19, 1423-1433
+1. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang. Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals (2021).   Scientific Reports, Accepted. <b>(IF=4.376, JCR 1 区)</b>
+2. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu. Correlation for tree-shaped datasets and its Bayesian estimation (2021).   Computational Statistics & Data Analysis, Accepted. <b>(IF=1.681, JCR 2 区)</b>
+3. Cong Pian, <b>Shanjun Mao</b>, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan. Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector (2020).   Molecular Therapy - Nucleic Acids, 19, 1423-1433. <b>(IF=8.886, JCR 1 区)</b>
 4. <b>Shanjun Mao</b>, Da Zhou, Yiping Zhang, Zhihong Zhang, Jingjing Cao (2018). Weighted Patches Based Face Super-Resolution Via Adaboost.   In Proceedings of the 2018 International Conference on Machine Learning and Cybernetics (ICMLC), 1, 234-239
-5. Da Zhou, <b>Shanjun Mao</b>, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Sstatistical Aanalysis of Sstochastic Pphenotypic Pplasticity Mmodel of Ccancer Ccells.   Journal of Theoretical Biology, 454, 70-79
-6. Bin Wu, <b>Shanjun Mao</b>, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314
+5. Da Zhou, <b>Shanjun Mao</b>, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Sstatistical Aanalysis of Sstochastic Pphenotypic Pplasticity Mmodel of Ccancer Ccells.   Journal of Theoretical Biology, 454, 70-79. <b>(IF=2.691, JCR 1 区)</b>
+6. Bin Wu, <b>Shanjun Mao</b>, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314. <b>(IF=2.529, JCR 1 区)</b>
 7. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Working.
 8. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
 9. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Working.
