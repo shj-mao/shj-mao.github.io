@@ -20,7 +20,7 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://lxy.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang (2021). Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals.   Scientific Reports, Accepted. <b>(IF=4.376, JCR 1 区)</b>
+1. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang (2021). Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals.   Scientific Reports, Accepted. <b>(IF=4.379, JCR 1 区)</b>
 2. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, Accepted. <b>(IF=1.681, JCR 2 区)</b>
 3. Cong Pian, <b>Shanjun Mao</b>, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan (2020). Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector.   Molecular Therapy - Nucleic Acids, 19, 1423-1433. <b>(IF=8.886, JCR 1 区)</b>
 4. <b>Shanjun Mao</b>, Da Zhou, Yiping Zhang, Zhihong Zhang, Jingjing Cao (2018). Weighted Patches Based Face Super-Resolution Via Adaboost.   In Proceedings of the 2018 International Conference on Machine Learning and Cybernetics (ICMLC), 1, 234-239
