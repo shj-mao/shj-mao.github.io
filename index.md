@@ -29,6 +29,7 @@
 7. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Working.
 8. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
 9. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Working.
+10. Shan Tang, Shanjun Mao (Corresponding Author). Classification of colorectal cancer based on the effects of intestinal microbes on individuals.   Working.
 
 ## 学术兼职
 Briefings in Bioinformatics，Journal of Computational and Graphical Statistics等期刊审稿人。
