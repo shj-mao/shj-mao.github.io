@@ -17,7 +17,7 @@
 ## 教育背景
 - 2017.8-2020.7 <a href="https://www.cuhk.edu.hk/chinese/index.html">香港中文大学</a> <a href="https://www.sta.cuhk.edu.hk/default.aspx">统计系</a>，博士 （导师 <a href="https://www.sta.cuhk.edu.hk/xfan">樊晓丹</a>教授）
 - 2014.9-2017.6 <a href="https://www.xmu.edu.cn/">厦门大学</a> <a href="http://math.xmu.edu.cn/">数学科学学院</a> 概率统计系，硕士 （导师 <a href="http://math-faculty.xmu.edu.cn/display.aspx?tid=116">周达</a>教授）
-- 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://lxy.ncu.edu.cn/">理学院</a> 数学系，学士
+- 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
 1. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, 164, 107307. <b>(IF=1.681, JCR 2 区)</b>
