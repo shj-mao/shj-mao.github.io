@@ -20,7 +20,7 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). A Novel Gut Microbial Interaction and Individual Heterogeneity Inference Method for Colorectal Cancer.   Journal of Theoretical Biology, Accepted. <b>(IF=2.691, SCI, JCR 1 区)</b>
+1. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(IF=2.691, SCI, JCR 1 区)</b>
 2. Jin Du, Chaojie Wang, Lijun Wang, <b>Shanjun Mao</b>, Bencong Zhu, Zheng Li, Xiaodan Fan (2023). Automatic block-wise genotype-phenotype association detection based on hidden Markov model.   BMC Bioinformatics, 24: 138. <b>(IF=3.307, SCI, JCR 1 区)</b>
 3. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, 164, 107307. <b>(IF=1.681, SCI, JCR 2 区)</b>
 4. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang (2021). Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals.   Scientific Reports, 11, 16850. <b>(IF=4.379, SCI, JCR 1 区)</b>
