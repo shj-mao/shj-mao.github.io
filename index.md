@@ -20,14 +20,14 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(IF=2.691, SCI, JCR 1 区)</b>
-2. Jin Du, Chaojie Wang, Lijun Wang, <b>Shanjun Mao</b>, Bencong Zhu, Zheng Li, Xiaodan Fan (2023). Automatic block-wise genotype-phenotype association detection based on hidden Markov model.   BMC Bioinformatics, 24: 138. <b>(IF=3.307, SCI, JCR 1 区)</b>
-3. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, 164, 107307. <b>(IF=1.681, SCI, JCR 2 区)</b>
-4. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang (2021). Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals.   Scientific Reports, 11, 16850. <b>(IF=4.379, SCI, JCR 1 区)</b>
-5. Cong Pian, <b>Shanjun Mao</b>, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan (2020). Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector.   Molecular Therapy - Nucleic Acids, 19, 1423-1433. <b>(IF=8.886, SCI, JCR 1 区)</b>
+1. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(SCI)</b>
+2. Jin Du, Chaojie Wang, Lijun Wang, <b>Shanjun Mao</b>, Bencong Zhu, Zheng Li, Xiaodan Fan (2023). Automatic block-wise genotype-phenotype association detection based on hidden Markov model.   BMC Bioinformatics, 24: 138. <b>(SCI)</b>
+3. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, 164, 107307. <b>(SCI)</b>
+4. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Jieli Guang, Yi Zhang (2021). Application of the improved simple bedside method for emergency temporary pacemaker implantation suitable for primary hospitals.   Scientific Reports, 11, 16850. <b>(SCI)</b>
+5. Cong Pian, <b>Shanjun Mao</b>, Jiali Yang, Guangle Zhang, Jin Du, Suet Yi Leung,Yuanyuan Chen, Xiaodan Fan (2020). Discovering Cancer-related miRNAs from miRNA-target Interactions by Support Vector.   Molecular Therapy - Nucleic Acids, 19, 1423-1433. <b>(SCI)</b>
 6. <b>Shanjun Mao</b>, Da Zhou, Yiping Zhang, Zhihong Zhang, Jingjing Cao (2018). Weighted Patches Based Face Super-Resolution Via Adaboost.   In Proceedings of the 2018 International Conference on Machine Learning and Cybernetics (ICMLC), 1, 234-239. <b>(IEEE Xplore, EI)</b>
-7. Da Zhou, <b>Shanjun Mao</b>, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Statistical Analysis of Stochastic Phenotypic Plasticity Model of Cancer Cells.   Journal of Theoretical Biology, 454, 70-79. <b>(IF=2.691, SCI, JCR 1 区)</b>
-8. Bin Wu, <b>Shanjun Mao</b>, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314. <b>(IF=2.529, SCI, JCR 1 区)</b>
+7. Da Zhou, <b>Shanjun Mao</b>, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Statistical Analysis of Stochastic Phenotypic Plasticity Model of Cancer Cells.   Journal of Theoretical Biology, 454, 70-79. <b>(SCI)</b>
+8. Bin Wu, <b>Shanjun Mao</b>, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314. <b>(SCI)</b>
 9. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Submitted.
 10. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Submitted.
 11. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
