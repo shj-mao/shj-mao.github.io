@@ -29,9 +29,6 @@
 7. <b>Shanjun Mao</b>, Da Zhou, Yiping Zhang, Zhihong Zhang, Jingjing Cao (2018). Weighted Patches Based Face Super-Resolution Via Adaboost.   In Proceedings of the 2018 International Conference on Machine Learning and Cybernetics (ICMLC), 1, 234-239. <b>(IEEE Xplore, EI)</b>
 8. Da Zhou, <b>Shanjun Mao</b>, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu (2018). A Bayesian Statistical Analysis of Stochastic Phenotypic Plasticity Model of Cancer Cells.   Journal of Theoretical Biology, 454, 70-79. <b>(SCI)</b>
 9. Bin Wu, <b>Shanjun Mao</b>, Jiazeng Wang, Da Zhou (2016). Control of Eepidemics vvia Ssocial Ppartnership Aadjustment.   Physical Review E, 94 (6), 062314. <b>(SCI)</b>
-10. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Submitted.
-11. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Submitted.
-12. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
 
 ## 研究项目
 1. 国家自然科学基金青年项目，阿尔茨海默症大脑时空数据的网络分析方法研究，2025-2027，主持
