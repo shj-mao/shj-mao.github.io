@@ -20,7 +20,7 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 论文
-1. <b>Shanjun Mao</b>, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, Shan Tang, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Considering Spatial Heterogeneity in Brain Gene Expression Data.   Briefings in Bioinformatics, Accepted. <b>(SCI)</b>
+1. <b>Shanjun Mao</b>, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, Shan Tang, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Considering Spatial Heterogeneity in Brain Gene Expression Data.   Briefings in Bioinformatics, 25(2). <b>(SCI)</b>
 2. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(SCI)</b>
 3. Jin Du, Chaojie Wang, Lijun Wang, <b>Shanjun Mao</b>, Bencong Zhu, Zheng Li, Xiaodan Fan (2023). Automatic block-wise genotype-phenotype association detection based on hidden Markov model.   BMC Bioinformatics, 24: 138. <b>(SCI)</b>
 4. <b>Shanjun Mao</b>, Xiaodan Fan, Jie Hu (2021). Correlation for tree-shaped datasets and its Bayesian estimation.   Computational Statistics & Data Analysis, 164, 107307. <b>(SCI)</b>
@@ -32,6 +32,12 @@
 10. Shanjun Mao, Xiaodan Fan, Jie Hu. Geometric Significance of Correlation for Tree-Shaped Datasets.   Submitted.
 11. Shanjun Mao, Xiaodan Fan. Bayesian Inference of Gene Expression Dynamics in Alzheimer Brains.   Submitted.
 12. Shanjun Mao, Xiaodan Fan, Jie Hu. Hypothesis Testing of Correlation for Tree-Shaped Datasets.   Working.
+
+## 研究项目
+1. 国家自然科学基金青年项目，阿尔茨海默症大脑时空数据的网络分析方法研究，2025-2027，主持
+2. 国家统计局优选项目，基于机器学习的地方政府债务风险预警体系研究，2025-2026，主持
+3. 湖南省教育厅优秀青年项目，基于高缺失多维度数据的基因动态调控网络重构的研究，2024-2026，主持
+4. 长沙市自然科学基金项目，基因调控的时空因果效应识别的贝叶斯推断研究，2024-2025，主持
 
 ## 学术兼职
 Briefings in Bioinformatics，Journal of Computational and Graphical Statistics等期刊审稿人。
