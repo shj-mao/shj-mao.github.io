@@ -19,7 +19,7 @@
 - 2014.9-2017.6 <a href="https://www.xmu.edu.cn/">厦门大学</a> <a href="http://math.xmu.edu.cn/">数学科学学院</a> 概率统计系，硕士 （导师 <a href="http://math-faculty.xmu.edu.cn/display.aspx?tid=116">周达</a>教授）
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
-## 论文
+## 学术论文
 1. <b>Shanjun Mao</b>, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, Shan Tang, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Considering Spatial Heterogeneity in Brain Gene Expression Data.   Briefings in Bioinformatics, 25(2). <b>(SCI)</b>
 2. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(SCI)</b>
 3. Jin Du, Chaojie Wang, Lijun Wang, <b>Shanjun Mao</b>, Bencong Zhu, Zheng Li, Xiaodan Fan (2023). Automatic block-wise genotype-phenotype association detection based on hidden Markov model.   BMC Bioinformatics, 24: 138. <b>(SCI)</b>
