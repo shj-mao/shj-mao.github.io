@@ -20,7 +20,7 @@
 - 2010.9-2014.6 <a href="http://www.ncu.edu.cn/">南昌大学</a> <a href="http://smcs.ncu.edu.cn/">理学院</a> 数学系，学士
 
 ## 学术论文
-1. Shunqi Yang, Lingyi Hu, Pengzhou Chen, Xiangxiang Zeng, <b>Shanjun Mao (Corresponding Author)</b> (2025). AJGM: Joint Learning of Heterogeneous Gene Networks with Adaptive Graphical Model. Bioinformatics, Accepted. <b>(SCI)</b>
+1. Shunqi Yang, Lingyi Hu, Pengzhou Chen, Xiangxiang Zeng, <b>Shanjun Mao (Corresponding Author)</b> (2025). AJGM: Joint Learning of Heterogeneous Gene Networks with Adaptive Graphical Model. <i>Bioinformatics</i>, Accepted. <b>(SCI)</b>
 2. Changqing Zhong, <b>Shanjun Mao (Corresponding Author)</b>, Shan Tang, Pengfei Zheng, Jianqiang Peng (2025). Impact of COVID-19 on Door-to-Wire Time in ST-segment Elevation Myocardial Infarction Treatment: The Role of Digital Communication. BMC Cardiovascular Disorders, Accepted. <b>(SCI)</b>
 3. <b>Shanjun Mao</b>, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, Shan Tang, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Considering Spatial Heterogeneity in Brain Gene Expression Data.   Briefings in Bioinformatics, 25(2). <b>(SCI)</b>
 4. Shan Tang, <b>Shanjun Mao (Co-First Author, Corresponding Author)</b>, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer.   Journal of Theoretical Biology, 571: 111538. <b>(SCI)</b>
