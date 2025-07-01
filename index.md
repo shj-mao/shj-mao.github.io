@@ -12,7 +12,7 @@
 <a href="/index-en.html">英文版</a>
 
 ## 个人简介
-毛善骏，男，1993年9月生，湖南张家界人，香港中文大学统计学博士，现任湖南大学金融与统计学院统计系助理教授。
+毛善骏，男，1993年9月生，湖南张家界人，香港中文大学统计学博士，现任湖南大学金融与统计学院统计与数据科学系助理教授，系副主任。
 
 ## 教育背景
 - 2017.8-2020.7 <a href="https://www.cuhk.edu.hk/chinese/index.html">香港中文大学</a> <a href="https://www.sta.cuhk.edu.hk/default.aspx">统计系</a>，博士 （导师 <a href="https://www.sta.cuhk.edu.hk/xfan">樊晓丹</a>教授）
