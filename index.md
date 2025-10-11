@@ -21,7 +21,7 @@
 
 ## 学术论文
 (Note: <sup>*</sup>：通讯作者，<sup>&#10013;</sup>：共同一作)
-1. Weidi Sun, Jiamin Cai, Yuping Yan, Zhijia Zhu, Dongchen Zhang, <b>Shanjun Mao<sup>*</sup></b>, Zilong Zhao<sup>*</sup>  (2025). Developing superselective homobivalent ligands differentiating membrane antigen density by exploring the spatial limit of the bivalency on cells   <i>Analytical Chemistry</i>, Accepted. <b>(SCI 1 区 Top, 分析化学顶刊)</b>
+1. Weidi Sun, Jiamin Cai, Yuping Yan, Zhijia Zhu, Dongchen Zhang, <b>Shanjun Mao<sup>*</sup></b>, Zilong Zhao<sup>*</sup>  (2025). Developing superselective homobivalent ligands differentiating membrane antigen density by exploring the spatial limit of the bivalency on cells.   <i>Analytical Chemistry</i>, Accepted. <b>(SCI 1 区 Top, 分析化学顶刊)</b>
 2. Tingting Jiang, Xingyu Liu, Wencan He, Hepei Li, Xiang Yan, Qian Yu<sup>*</sup>, <b>Shanjun Mao<sup>*</sup></b> (2025). Development and validation of a small-sample machine learning model to predict 5-year overall survival in patients with hepatocellular carcinoma.   <i>BMC Cancer</i>, 25(1), 1040. <b>(SCI 2 区)</b>
 3. <b>Shanjun Mao</b>, Chenyang Zhang, Runjiu Chen, Shan Tang, Xiaodan Fan<sup>*</sup>, Jie Hu<sup>*</sup> (2025). Cell Lineage Tracing: methods, applications, and challenges.   <i>Quantitative Biology</i>, 13 (4), e70006. <b>(SCI, 中科协T3)</b>
 4. Shunqi Yang, Lingyi Hu, Pengzhou Chen, Xiangxiang Zeng, <b>Shanjun Mao<sup>*</sup></b> (2025). AJGM: Joint Learning of Heterogeneous Gene Networks with Adaptive Graphical Model.   <i>Bioinformatics</i>, btaf096. <b>(SCI 2 区, 中科协T1, 生物信息学顶刊)</b>
