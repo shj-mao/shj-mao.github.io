@@ -25,15 +25,15 @@ Shanjun Mao, born in September 1993 in Zhangjiajie, Hunan Province, received his
 ## Education
 
 - 2017.8–2020.7  
-  Ph.D. in Statistics, Department of Statistics, The Chinese University of Hong Kong  
-  Supervisor: Prof. Xiaodan Fan
+  Ph.D. in Statistics, <a href="https://www.sta.cuhk.edu.hk/default.aspx">Department of Statistics</a>, <a href="https://www.cuhk.edu.hk/chinese/index.html">The Chinese University of Hong Kong</a>  
+  Supervisor: <a href="https://www.sta.cuhk.edu.hk/xfan">Prof. Xiaodan Fan</a>
 
 - 2014.9–2017.6  
-  M.S. in Probability and Statistics, School of Mathematical Sciences, Xiamen University  
-  Supervisor: Prof. Da Zhou
+  M.S. in Probability and Statistics, <a href="http://math.xmu.edu.cn/">School of Mathematical Sciences</a>, <a href="https://www.xmu.edu.cn/">Xiamen University</a>  
+  Supervisor: <a href="https://zhoudalab.github.io/">Prof. Da Zhou</a>
 
 - 2010.9–2014.6  
-  B.S. in Mathematics, School of Science, Nanchang University
+  B.S. in Mathematics, <a href="http://smcs.ncu.edu.cn/">School of Science</a>, <a href="http://www.ncu.edu.cn/">Nanchang University</a>
 
 ## Publications
 
