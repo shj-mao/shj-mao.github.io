@@ -8,7 +8,7 @@
   </a>
 </div>
 
-![证件照](/picture/picture-me.jpg)
+<img src="/picture/picture-me.jpg" alt="证件照" style="width: 180px; border-radius: 8px;">
 
 ## 个人信息
 
