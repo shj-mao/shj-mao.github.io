@@ -7,15 +7,16 @@
   </a>
 </div>
 
-![Photo](/picture/picture-me.jpg)
+<img src="/picture/picture-me.jpg" alt="Photo" style="width: 360px; border-radius: 8px;">
 
 ## Personal Information
 
 - Name: Shanjun Mao
 - Title/Position: Associate Professor, Master's Supervisor
-- Office: College of Finance and Statistics Building, Hunan University
+- Office: College of Finance and Statistics Building, Hunan University (<a href="/404.html">Office Number</a>)
 - E-mail: shjmao@hnu.edu.cn
 - Research Interests: Statistical Modeling and Computing; Computational Biology/Bioinformatics
+- School Official Homepage Link：<a href="https://jt.hnu.edu.cn/info/1168/6095.htm">HNU-Shanjun Mao</a>
 
 ## Biography
 
