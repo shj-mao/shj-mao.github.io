@@ -1,15 +1,22 @@
 # Welcome to Shanjun's Personal Page!
 
+<div style="margin: 18px 0 24px 0; padding: 16px 18px; border: 1px solid #d0d7de; border-radius: 10px; background: #f6f8fa;">
+  <strong style="font-size: 18px;">🌐 English Version Available</strong><br>
+  <span style="display: inline-block; margin-top: 6px;">For international visitors, please visit the English version of this page.</span><br>
+  <a href="/index-en.html" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background: #0366d6; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: 600;">
+    Go to English Version
+  </a>
+</div>
+
 ![证件照](/picture/picture-me.jpg)
 
 ## 个人信息
+
 - 姓名：毛善骏
 - 职称/职务：副教授，硕士生导师
-- 办公室：湖南大学财院校区金融与统计学院大楼（<a href="[https://www.cuhk.edu.hk/chinese/index.html](https://shj-mao.github.io/404.html)">Office Number</a>）
+- 办公室：湖南大学财院校区金融与统计学院大楼（Office Number）
 - E-mail：shjmao@hnu.edu.cn
 - 研究方向：Statistical Modeling and Computing, Computational Biology/Bioinformatics
-
-<a href="/index-en.html">英文版</a>
 
 ## 个人简介
 毛善骏，男，1993年9月生，湖南张家界人，香港中文大学统计学博士，现任湖南大学金融与统计学院统计与数据科学系副教授，系副主任。
