@@ -8,15 +8,16 @@
   </a>
 </div>
 
-<img src="/picture/picture-me.jpg" alt="证件照" style="width: 180px; border-radius: 8px;">
+<img src="/picture/picture-me.jpg" alt="证件照" style="width: 360px; border-radius: 8px;">
 
 ## 个人信息
 
 - 姓名：毛善骏
 - 职称/职务：副教授，硕士生导师
-- 办公室：湖南大学财院校区金融与统计学院大楼（Office Number）
+- 办公室：湖南大学财院校区金融与统计学院大楼（<a href="/404.html">Office Number</a>）
 - E-mail：shjmao@hnu.edu.cn
 - 研究方向：Statistical Modeling and Computing, Computational Biology/Bioinformatics
+- 学校官方主页链接：<a href="https://jt.hnu.edu.cn/info/1168/6095.htm">湖南大学-毛善骏</a>
 
 ## 个人简介
 毛善骏，男，1993年9月生，湖南张家界人，香港中文大学统计学博士，现任湖南大学金融与统计学院统计与数据科学系副教授，系副主任。
