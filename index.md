@@ -29,7 +29,7 @@
 
 ## 学术论文
 (Note: <sup>*</sup>：通讯作者，<sup>&#10013;</sup>：共同一作)
-1. <b>Shanjun Mao</b>, Sixuan Liu, Xiaodan Fan, Jie Hu (2026). A Geometric Statistic for Quantifying the Spatial-Temporal Association in Cell Lineage Gene Expression Tree. Journal of Computational and Graphical Statistics, 1-12. <b>(SCI 3 区, IF: 1.6)</b>
+1. <b>Shanjun Mao</b>, Sixuan Liu, Xiaodan Fan, Jie Hu (2026). A Geometric Statistic for Quantifying the Spatial-Temporal Association in Cell Lineage Gene Expression Tree. <i>Journal of Computational and Graphical Statistics</i>, 1-12. <b>(SCI 3 区, IF: 1.6)</b>
 2. Xingyu Liu, Wencan He, <b>Shanjun Mao<sup>*</sup></b> (2026). CTSM: A novel cumulative-time-based stacking algorithm for predicting sepsis onset. <i>Biomedical Signal Processing and Control</i>, 125, 110764. <b>(SCI 2 区 Top, IF: 5.7)</b>
 3. Zhi Zhang, Jiayao Liu, Xinyue Wang, <b>Shanjun Mao</b>, Liming Chen (2026). Research on Spillover Effects of Climate Policy Uncertainty on Energy and Agricultural Product Markets from a Time-Frequency Perspective. <i>Agriculture</i>, 16(10), 1019. <b>(SCI 3 区, IF: 3.5)</b>
 4. Yixhu Diao, Jiaxin Li, Hai Fang<sup>*</sup>, <b>Shanjun Mao<sup>*</sup></b>  (2026). Network-phenotype key gene screening (NPKG) identifies therapeutically relevant targets for neurodegenerative diseases.   <i>Genes & Diseases</i>, 102033. <b>(SCI 2 区, IF: 9.4)</b>
