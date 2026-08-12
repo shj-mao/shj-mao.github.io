@@ -39,7 +39,7 @@ Shanjun Mao, born in September 1993 in Zhangjiajie, Hunan Province, received his
 
 Note: * denotes corresponding author; ✝ denotes co-first author.
 
-1.<b>Shanjun Mao</b>, Sixuan Liu, Xiaodan Fan, Jie Hu (2026). A Geometric Statistic for Quantifying the Spatial-Temporal Association in Cell Lineage Gene Expression Tree. <i>Journal of Computational and Graphical Statistics</i>, 1-12.
+1. <b>Shanjun Mao</b>, Sixuan Liu, Xiaodan Fan, Jie Hu (2026). A Geometric Statistic for Quantifying the Spatial-Temporal Association in Cell Lineage Gene Expression Tree. <i>Journal of Computational and Graphical Statistics</i>, 1-12.
 
 2. Xingyu Liu, Wencan He, <b>Shanjun Mao<sup>*</sup></b> (2026). CTSM: A novel cumulative-time-based stacking algorithm for predicting sepsis onset. <i>Biomedical Signal Processing and Control</i>, 125, 110764.
 
